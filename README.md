@@ -17,7 +17,7 @@ Un mod **100% français** qui ajoute des têtes stylées (et un peu WTF) à votr
 ---
 
 ## 📥 Installation  
-1. **Télécharge** le mod [MoreHead](lien_ici) (si tu ne l'as pas déjà)  
+1. **Télécharge** le mod [MoreHead](https://thunderstore.io/c/repo/p/YMC_MHZ/MoreHead/) (si tu ne l'as pas déjà)  
 2. **Ajoute** Head+++ dans ton dossier `mods/`  
 3. **Lance le jeu** et profite de tes nouvelles têtes ! 🚀  
 
@@ -26,6 +26,8 @@ Un mod **100% français** qui ajoute des têtes stylées (et un peu WTF) à votr
 ## 💡 Contribuer  
 Tu veux proposer une tête custom ?  
 📩 **Contacte-moi sur Discord :** `totol_ford`  
+📩 **ou par mail :** `totolford@gmail.com` 
+Si tu as trop de tune a donner https://www.paypal.com/paypalme/totolford
 
 *(Les idées les plus WTF sont les bienvenues !)*  
 
