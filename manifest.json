@@ -1,0 +1,9 @@
+﻿{
+  "name": "Headplusplusplus",
+  "version_number": "0.0.1",
+  "website_url": "https://github.com/totolford/Headplusplusplus.git",
+  "description": "des tetes, encore des tetes, trop de tetes",
+  "dependencies": [
+      "YMC_MHZ-MoreHead-1.3.4"
+  ]
+}
